@@ -13,3 +13,14 @@ The Human Resources Power BI dashboard allows users to get a clear overview of t
 
 ## Action
 ![ezgif com-video-to-gif (2)](https://github.com/typophobic-deep/Power-BI-Dashboard---HR-Analytics-advanced/assets/120250413/a5a25321-5865-4fb9-ab20-77db55458488)
+
+
+## Screenshots
+### Page 1
+![page3](https://github.com/typophobic-deep/Power-BI-Dashboard---HR-Analytics-advanced/assets/120250413/4cab2c99-9a01-40ae-abf6-7246364ffb3d)
+
+### Page 2
+![page2](https://github.com/typophobic-deep/Power-BI-Dashboard---HR-Analytics-advanced/assets/120250413/ceec131d-8139-485f-a580-9dcb72129f42)
+
+### Page 3
+![page1](https://github.com/typophobic-deep/Power-BI-Dashboard---HR-Analytics-advanced/assets/120250413/912f78f3-b7f8-4106-ba5d-ec2daa7136e4)
